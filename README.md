@@ -60,7 +60,7 @@ This ensures that the app responds correctly in all scenarios.
 
 ## 📷 Screenshots
 
-
+[Screenshot: https://imgur.com/a/6GKr8ui](https://imgur.com/a/6GKr8ui)
 
 ---
 
@@ -73,6 +73,3 @@ This ensures that the app responds correctly in all scenarios.
 
 ## 📌 Notes
 This app was developed as a beginner-level project focusing on basic concepts of mobile app development.
-
-
-USA exatamente este e tira estes símbolos suspeitos de IA, parece IA, 
